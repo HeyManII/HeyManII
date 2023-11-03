@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @HeyManII
-- 👀 I’m interested in 
+- 👋 Hi, I’m David (@HeyManII)
+- 👀 I’m interested in programming, especially in reinforcement learning.
 - 🌱 I’m currently learning computer science in HK PolyU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 HeyManII/HeyManII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
